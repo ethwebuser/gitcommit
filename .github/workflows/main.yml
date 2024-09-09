@@ -16,7 +16,7 @@ jobs:
     - name: Set up Git
       run: |
         git config --global user.email "ethwebuser@gmail.com"
-        git config --global user.name "ethwebuser
+        git config --global user.name "ethwebuser"
     - name: Select Random Sticker
       id: random_sticker
       run: |
